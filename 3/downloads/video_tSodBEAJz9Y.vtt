@@ -1,0 +1,992 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.000 --> 00:00:02.090 align:start position:0%
+ 
+hey<00:00:00.149><c> what's</c><00:00:00.359><c> up</c><00:00:00.450><c> guys</c><00:00:00.690><c> welcome</c><00:00:01.050><c> to</c><00:00:01.319><c> sir</c><00:00:01.770><c> pros</c>
+
+00:00:02.090 --> 00:00:02.100 align:start position:0%
+hey what's up guys welcome to sir pros
+ 
+
+00:00:02.100 --> 00:00:04.039 align:start position:0%
+hey what's up guys welcome to sir pros
+in<00:00:02.490><c> this</c><00:00:03.030><c> video</c><00:00:03.300><c> we're</c><00:00:03.540><c> going</c><00:00:03.659><c> to</c><00:00:03.750><c> be</c><00:00:03.810><c> talking</c>
+
+00:00:04.039 --> 00:00:04.049 align:start position:0%
+in this video we're going to be talking
+ 
+
+00:00:04.049 --> 00:00:19.040 align:start position:0%
+in this video we're going to be talking
+about<00:00:04.259><c> computer</c><00:00:05.190><c> networks</c><00:00:16.940><c> okay</c><00:00:17.940><c> so</c><00:00:18.000><c> what</c><00:00:18.810><c> is</c>
+
+00:00:19.040 --> 00:00:19.050 align:start position:0%
+about computer networks okay so what is
+ 
+
+00:00:19.050 --> 00:00:22.849 align:start position:0%
+about computer networks okay so what is
+a<00:00:19.470><c> computer</c><00:00:20.039><c> network</c><00:00:20.990><c> well</c><00:00:21.990><c> first</c><00:00:22.380><c> let's</c>
+
+00:00:22.849 --> 00:00:22.859 align:start position:0%
+a computer network well first let's
+ 
+
+00:00:22.859 --> 00:00:26.210 align:start position:0%
+a computer network well first let's
+break<00:00:23.100><c> it</c><00:00:23.250><c> down</c><00:00:23.279><c> what</c><00:00:24.180><c> is</c><00:00:24.420><c> a</c><00:00:24.570><c> network</c><00:00:25.230><c> the</c>
+
+00:00:26.210 --> 00:00:26.220 align:start position:0%
+break it down what is a network the
+ 
+
+00:00:26.220 --> 00:00:29.269 align:start position:0%
+break it down what is a network the
+definition<00:00:26.880><c> of</c><00:00:27.000><c> a</c><00:00:27.060><c> network</c><00:00:27.480><c> is</c><00:00:27.630><c> a</c><00:00:28.410><c> group</c><00:00:28.560><c> or</c>
+
+00:00:29.269 --> 00:00:29.279 align:start position:0%
+definition of a network is a group or
+ 
+
+00:00:29.279 --> 00:00:32.089 align:start position:0%
+definition of a network is a group or
+system<00:00:30.060><c> of</c><00:00:30.240><c> interconnected</c><00:00:30.960><c> people</c><00:00:31.920><c> or</c>
+
+00:00:32.089 --> 00:00:32.099 align:start position:0%
+system of interconnected people or
+ 
+
+00:00:32.099 --> 00:00:35.510 align:start position:0%
+system of interconnected people or
+things<00:00:32.809><c> so</c><00:00:33.809><c> it</c><00:00:34.140><c> would</c><00:00:34.380><c> be</c><00:00:34.559><c> fair</c><00:00:34.890><c> to</c><00:00:34.920><c> say</c><00:00:35.130><c> a</c>
+
+00:00:35.510 --> 00:00:35.520 align:start position:0%
+things so it would be fair to say a
+ 
+
+00:00:35.520 --> 00:00:38.510 align:start position:0%
+things so it would be fair to say a
+computer<00:00:36.270><c> network</c><00:00:36.690><c> would</c><00:00:37.170><c> be</c><00:00:37.200><c> a</c><00:00:37.620><c> group</c><00:00:38.309><c> or</c>
+
+00:00:38.510 --> 00:00:38.520 align:start position:0%
+computer network would be a group or
+ 
+
+00:00:38.520 --> 00:00:42.680 align:start position:0%
+computer network would be a group or
+system<00:00:39.450><c> of</c><00:00:39.600><c> interconnected</c><00:00:40.640><c> computers</c><00:00:41.640><c> right</c>
+
+00:00:42.680 --> 00:00:42.690 align:start position:0%
+system of interconnected computers right
+ 
+
+00:00:42.690 --> 00:00:46.279 align:start position:0%
+system of interconnected computers right
+and<00:00:42.840><c> that's</c><00:00:43.770><c> exactly</c><00:00:44.309><c> what</c><00:00:44.550><c> it</c><00:00:44.730><c> is</c><00:00:44.879><c> a</c><00:00:45.300><c> computer</c>
+
+00:00:46.279 --> 00:00:46.289 align:start position:0%
+and that's exactly what it is a computer
+ 
+
+00:00:46.289 --> 00:00:48.920 align:start position:0%
+and that's exactly what it is a computer
+network<00:00:46.680><c> is</c><00:00:46.920><c> anything</c><00:00:47.610><c> where</c><00:00:47.969><c> more</c><00:00:48.539><c> than</c><00:00:48.570><c> one</c>
+
+00:00:48.920 --> 00:00:48.930 align:start position:0%
+network is anything where more than one
+ 
+
+00:00:48.930 --> 00:00:51.080 align:start position:0%
+network is anything where more than one
+computer<00:00:49.379><c> is</c><00:00:49.590><c> connected</c><00:00:49.950><c> to</c><00:00:50.309><c> each</c><00:00:50.579><c> other</c>
+
+00:00:51.080 --> 00:00:51.090 align:start position:0%
+computer is connected to each other
+ 
+
+00:00:51.090 --> 00:00:53.660 align:start position:0%
+computer is connected to each other
+traditionally<00:00:52.079><c> a</c><00:00:52.260><c> computer</c><00:00:53.010><c> network</c><00:00:53.340><c> would</c>
+
+00:00:53.660 --> 00:00:53.670 align:start position:0%
+traditionally a computer network would
+ 
+
+00:00:53.670 --> 00:00:57.099 align:start position:0%
+traditionally a computer network would
+consist<00:00:54.120><c> of</c><00:00:54.329><c> desktop</c><00:00:55.020><c> computers</c><00:00:55.520><c> servers</c>
+
+00:00:57.099 --> 00:00:57.109 align:start position:0%
+consist of desktop computers servers
+ 
+
+00:00:57.109 --> 00:01:00.529 align:start position:0%
+consist of desktop computers servers
+printers<00:00:58.109><c> etc</c><00:00:59.010><c> but</c><00:00:59.430><c> these</c><00:00:59.670><c> days</c><00:00:59.879><c> we</c><00:01:00.149><c> live</c><00:01:00.329><c> in</c><00:01:00.449><c> a</c>
+
+00:01:00.529 --> 00:01:00.539 align:start position:0%
+printers etc but these days we live in a
+ 
+
+00:01:00.539 --> 00:01:03.470 align:start position:0%
+printers etc but these days we live in a
+connected<00:01:00.989><c> world</c><00:01:01.370><c> we</c><00:01:02.370><c> still</c><00:01:02.430><c> have</c><00:01:02.879><c> desktops</c>
+
+00:01:03.470 --> 00:01:03.480 align:start position:0%
+connected world we still have desktops
+ 
+
+00:01:03.480 --> 00:01:07.039 align:start position:0%
+connected world we still have desktops
+servers<00:01:04.409><c> printers</c><00:01:05.309><c> but</c><00:01:05.850><c> we</c><00:01:06.060><c> now</c><00:01:06.270><c> have</c><00:01:06.570><c> a</c><00:01:06.600><c> vast</c>
+
+00:01:07.039 --> 00:01:07.049 align:start position:0%
+servers printers but we now have a vast
+ 
+
+00:01:07.049 --> 00:01:09.980 align:start position:0%
+servers printers but we now have a vast
+number<00:01:07.619><c> of</c><00:01:07.799><c> smart</c><00:01:08.369><c> devices</c><00:01:08.729><c> connected</c><00:01:09.540><c> to</c><00:01:09.570><c> our</c>
+
+00:01:09.980 --> 00:01:09.990 align:start position:0%
+number of smart devices connected to our
+ 
+
+00:01:09.990 --> 00:01:12.440 align:start position:0%
+number of smart devices connected to our
+networks<00:01:10.380><c> as</c><00:01:10.619><c> well</c><00:01:10.890><c> most</c><00:01:11.460><c> of</c><00:01:11.610><c> you</c><00:01:11.760><c> will</c><00:01:11.970><c> have</c><00:01:12.150><c> a</c>
+
+00:01:12.440 --> 00:01:12.450 align:start position:0%
+networks as well most of you will have a
+ 
+
+00:01:12.450 --> 00:01:15.679 align:start position:0%
+networks as well most of you will have a
+mobile<00:01:12.840><c> phone</c><00:01:12.869><c> maybe</c><00:01:13.740><c> a</c><00:01:13.860><c> tablet</c><00:01:14.689><c> security</c>
+
+00:01:15.679 --> 00:01:15.689 align:start position:0%
+mobile phone maybe a tablet security
+ 
+
+00:01:15.689 --> 00:01:18.560 align:start position:0%
+mobile phone maybe a tablet security
+cameras<00:01:16.200><c> even</c><00:01:16.920><c> smart</c><00:01:17.520><c> lights</c><00:01:17.909><c> are</c><00:01:18.180><c> found</c><00:01:18.390><c> on</c>
+
+00:01:18.560 --> 00:01:18.570 align:start position:0%
+cameras even smart lights are found on
+ 
+
+00:01:18.570 --> 00:01:20.810 align:start position:0%
+cameras even smart lights are found on
+networks<00:01:18.960><c> these</c><00:01:19.229><c> days</c><00:01:19.470><c> and</c><00:01:19.740><c> the</c><00:01:20.189><c> list</c><00:01:20.430><c> really</c>
+
+00:01:20.810 --> 00:01:20.820 align:start position:0%
+networks these days and the list really
+ 
+
+00:01:20.820 --> 00:01:23.390 align:start position:0%
+networks these days and the list really
+does<00:01:21.180><c> go</c><00:01:21.509><c> on</c><00:01:21.540><c> and</c><00:01:21.810><c> on</c><00:01:22.110><c> so</c><00:01:22.710><c> let's</c><00:01:22.950><c> take</c><00:01:23.130><c> a</c><00:01:23.159><c> look</c>
+
+00:01:23.390 --> 00:01:23.400 align:start position:0%
+does go on and on so let's take a look
+ 
+
+00:01:23.400 --> 00:01:25.429 align:start position:0%
+does go on and on so let's take a look
+at<00:01:23.520><c> some</c><00:01:23.670><c> basic</c><00:01:23.700><c> networks</c><00:01:24.540><c> and</c><00:01:24.869><c> we</c><00:01:25.140><c> can</c><00:01:25.259><c> see</c>
+
+00:01:25.429 --> 00:01:25.439 align:start position:0%
+at some basic networks and we can see
+ 
+
+00:01:25.439 --> 00:01:28.700 align:start position:0%
+at some basic networks and we can see
+what<00:01:25.590><c> they</c><00:01:25.740><c> look</c><00:01:25.770><c> like</c><00:01:27.020><c> first</c><00:01:28.020><c> one</c><00:01:28.530><c> that</c>
+
+00:01:28.700 --> 00:01:28.710 align:start position:0%
+what they look like first one that
+ 
+
+00:01:28.710 --> 00:01:31.310 align:start position:0%
+what they look like first one that
+should<00:01:28.920><c> be</c><00:01:29.040><c> familiar</c><00:01:29.189><c> to</c><00:01:29.520><c> most</c><00:01:29.939><c> of</c><00:01:30.180><c> you</c><00:01:30.320><c> here</c>
+
+00:01:31.310 --> 00:01:31.320 align:start position:0%
+should be familiar to most of you here
+ 
+
+00:01:31.320 --> 00:01:33.950 align:start position:0%
+should be familiar to most of you here
+we<00:01:31.500><c> have</c><00:01:31.680><c> a</c><00:01:31.710><c> switch</c><00:01:31.979><c> a</c><00:01:32.400><c> router</c><00:01:32.909><c> a</c><00:01:33.210><c> wireless</c>
+
+00:01:33.950 --> 00:01:33.960 align:start position:0%
+we have a switch a router a wireless
+ 
+
+00:01:33.960 --> 00:01:37.010 align:start position:0%
+we have a switch a router a wireless
+access<00:01:34.170><c> point</c><00:01:34.470><c> a</c><00:01:34.890><c> desktop</c><00:01:35.700><c> and</c><00:01:35.909><c> a</c><00:01:36.210><c> phone</c><00:01:36.479><c> all</c>
+
+00:01:37.010 --> 00:01:37.020 align:start position:0%
+access point a desktop and a phone all
+ 
+
+00:01:37.020 --> 00:01:40.160 align:start position:0%
+access point a desktop and a phone all
+connected<00:01:37.680><c> to</c><00:01:37.829><c> the</c><00:01:37.979><c> same</c><00:01:38.340><c> network</c><00:01:38.960><c> this</c><00:01:39.960><c> is</c><00:01:40.140><c> a</c>
+
+00:01:40.160 --> 00:01:40.170 align:start position:0%
+connected to the same network this is a
+ 
+
+00:01:40.170 --> 00:01:43.789 align:start position:0%
+connected to the same network this is a
+pretty<00:01:40.530><c> common</c><00:01:41.130><c> home</c><00:01:41.579><c> set</c><00:01:41.909><c> up</c><00:01:42.500><c> it's</c><00:01:43.500><c> worth</c>
+
+00:01:43.789 --> 00:01:43.799 align:start position:0%
+pretty common home set up it's worth
+ 
+
+00:01:43.799 --> 00:01:46.399 align:start position:0%
+pretty common home set up it's worth
+noting<00:01:44.250><c> that</c><00:01:44.280><c> in</c><00:01:44.520><c> most</c><00:01:44.850><c> home</c><00:01:45.240><c> networks</c><00:01:45.750><c> the</c>
+
+00:01:46.399 --> 00:01:46.409 align:start position:0%
+noting that in most home networks the
+ 
+
+00:01:46.409 --> 00:01:48.830 align:start position:0%
+noting that in most home networks the
+switch<00:01:46.710><c> and</c><00:01:46.950><c> wireless</c><00:01:47.610><c> access</c><00:01:47.820><c> point</c><00:01:48.270><c> will</c><00:01:48.720><c> be</c>
+
+00:01:48.830 --> 00:01:48.840 align:start position:0%
+switch and wireless access point will be
+ 
+
+00:01:48.840 --> 00:01:52.200 align:start position:0%
+switch and wireless access point will be
+built<00:01:49.170><c> into</c><00:01:49.380><c> the</c><00:01:49.649><c> Rooter</c>
+
+00:01:52.200 --> 00:01:52.210 align:start position:0%
+ 
+ 
+
+00:01:52.210 --> 00:01:54.630 align:start position:0%
+ 
+generally<00:01:52.990><c> speaking</c><00:01:53.260><c> any</c><00:01:53.620><c> network</c><00:01:54.280><c> in</c><00:01:54.520><c> a</c>
+
+00:01:54.630 --> 00:01:54.640 align:start position:0%
+generally speaking any network in a
+ 
+
+00:01:54.640 --> 00:01:57.420 align:start position:0%
+generally speaking any network in a
+single<00:01:55.090><c> area</c><00:01:55.420><c> is</c><00:01:55.600><c> called</c><00:01:56.350><c> a</c><00:01:56.530><c> local</c><00:01:57.160><c> area</c>
+
+00:01:57.420 --> 00:01:57.430 align:start position:0%
+single area is called a local area
+ 
+
+00:01:57.430 --> 00:02:01.680 align:start position:0%
+single area is called a local area
+network<00:01:57.820><c> or</c><00:01:58.750><c> LAN</c><00:01:59.910><c> the</c><00:02:00.910><c> LAN</c><00:02:01.090><c> is</c><00:02:01.300><c> usually</c>
+
+00:02:01.680 --> 00:02:01.690 align:start position:0%
+network or LAN the LAN is usually
+ 
+
+00:02:01.690 --> 00:02:04.740 align:start position:0%
+network or LAN the LAN is usually
+connected<00:02:02.170><c> to</c><00:02:02.230><c> the</c><00:02:02.500><c> outside</c><00:02:03.190><c> world</c><00:02:03.570><c> using</c><00:02:04.570><c> a</c>
+
+00:02:04.740 --> 00:02:04.750 align:start position:0%
+connected to the outside world using a
+ 
+
+00:02:04.750 --> 00:02:06.480 align:start position:0%
+connected to the outside world using a
+socket<00:02:05.110><c> in</c><00:02:05.290><c> the</c><00:02:05.410><c> wall</c><00:02:05.590><c> that</c><00:02:05.620><c> your</c><00:02:05.980><c> internet</c>
+
+00:02:06.480 --> 00:02:06.490 align:start position:0%
+socket in the wall that your internet
+ 
+
+00:02:06.490 --> 00:02:09.300 align:start position:0%
+socket in the wall that your internet
+service<00:02:06.820><c> provider</c><00:02:07.000><c> has</c><00:02:07.780><c> installed</c><00:02:08.320><c> this</c>
+
+00:02:09.300 --> 00:02:09.310 align:start position:0%
+service provider has installed this
+ 
+
+00:02:09.310 --> 00:02:10.800 align:start position:0%
+service provider has installed this
+socket<00:02:09.790><c> connects</c><00:02:10.149><c> you</c><00:02:10.210><c> to</c><00:02:10.240><c> something</c><00:02:10.600><c> called</c>
+
+00:02:10.800 --> 00:02:10.810 align:start position:0%
+socket connects you to something called
+ 
+
+00:02:10.810 --> 00:02:15.550 align:start position:0%
+socket connects you to something called
+the<00:02:11.260><c> wide</c><00:02:11.680><c> area</c><00:02:12.280><c> network</c><00:02:12.940><c> or</c><00:02:13.210><c> WAN</c>
+
+00:02:15.550 --> 00:02:15.560 align:start position:0%
+the wide area network or WAN
+ 
+
+00:02:15.560 --> 00:02:18.130 align:start position:0%
+the wide area network or WAN
+the<00:02:15.680><c> purpose</c><00:02:16.100><c> of</c><00:02:16.220><c> a1</c><00:02:16.490><c> is</c><00:02:16.730><c> to</c><00:02:17.090><c> connect</c><00:02:17.390><c> separate</c>
+
+00:02:18.130 --> 00:02:18.140 align:start position:0%
+the purpose of a1 is to connect separate
+ 
+
+00:02:18.140 --> 00:02:21.430 align:start position:0%
+the purpose of a1 is to connect separate
+local<00:02:18.830><c> area</c><00:02:19.280><c> networks</c><00:02:19.700><c> together</c><00:02:20.240><c> the</c><00:02:21.200><c> most</c>
+
+00:02:21.430 --> 00:02:21.440 align:start position:0%
+local area networks together the most
+ 
+
+00:02:21.440 --> 00:02:24.160 align:start position:0%
+local area networks together the most
+obvious<00:02:22.010><c> example</c><00:02:22.580><c> of</c><00:02:22.700><c> a</c><00:02:22.970><c> one</c><00:02:23.209><c> would</c><00:02:23.720><c> be</c><00:02:23.930><c> the</c>
+
+00:02:24.160 --> 00:02:24.170 align:start position:0%
+obvious example of a one would be the
+ 
+
+00:02:24.170 --> 00:02:26.949 align:start position:0%
+obvious example of a one would be the
+internet<00:02:24.740><c> however</c><00:02:25.370><c> businesses</c><00:02:26.300><c> might</c><00:02:26.600><c> have</c>
+
+00:02:26.949 --> 00:02:26.959 align:start position:0%
+internet however businesses might have
+ 
+
+00:02:26.959 --> 00:02:29.890 align:start position:0%
+internet however businesses might have
+private<00:02:27.680><c> ones</c><00:02:28.010><c> to</c><00:02:28.640><c> connect</c><00:02:28.910><c> multiple</c><00:02:29.270><c> sites</c>
+
+00:02:29.890 --> 00:02:29.900 align:start position:0%
+private ones to connect multiple sites
+ 
+
+00:02:29.900 --> 00:02:32.590 align:start position:0%
+private ones to connect multiple sites
+together<00:02:30.380><c> so</c><00:02:31.280><c> now</c><00:02:31.430><c> let's</c><00:02:31.760><c> look</c><00:02:31.850><c> at</c><00:02:32.120><c> a</c><00:02:32.209><c> more</c>
+
+00:02:32.590 --> 00:02:32.600 align:start position:0%
+together so now let's look at a more
+ 
+
+00:02:32.600 --> 00:02:36.190 align:start position:0%
+together so now let's look at a more
+business<00:02:33.230><c> type</c><00:02:33.560><c> network</c><00:02:34.420><c> so</c><00:02:35.420><c> we</c><00:02:35.569><c> have</c><00:02:35.780><c> all</c><00:02:36.050><c> of</c>
+
+00:02:36.190 --> 00:02:36.200 align:start position:0%
+business type network so we have all of
+ 
+
+00:02:36.200 --> 00:02:38.050 align:start position:0%
+business type network so we have all of
+our<00:02:36.290><c> office</c><00:02:36.680><c> computers</c><00:02:37.190><c> and</c><00:02:37.370><c> these</c><00:02:37.850><c> would</c>
+
+00:02:38.050 --> 00:02:38.060 align:start position:0%
+our office computers and these would
+ 
+
+00:02:38.060 --> 00:02:41.020 align:start position:0%
+our office computers and these would
+usually<00:02:38.270><c> plug</c><00:02:38.660><c> into</c><00:02:38.870><c> a</c><00:02:39.050><c> wall</c><00:02:39.200><c> or</c><00:02:39.709><c> floor</c><00:02:40.280><c> socket</c>
+
+00:02:41.020 --> 00:02:41.030 align:start position:0%
+usually plug into a wall or floor socket
+ 
+
+00:02:41.030 --> 00:02:42.970 align:start position:0%
+usually plug into a wall or floor socket
+and<00:02:41.390><c> these</c><00:02:41.720><c> sockets</c><00:02:42.020><c> will</c><00:02:42.350><c> have</c><00:02:42.500><c> cables</c>
+
+00:02:42.970 --> 00:02:42.980 align:start position:0%
+and these sockets will have cables
+ 
+
+00:02:42.980 --> 00:02:44.590 align:start position:0%
+and these sockets will have cables
+either<00:02:43.430><c> running</c><00:02:43.700><c> through</c><00:02:43.880><c> the</c><00:02:44.030><c> floor</c><00:02:44.270><c> or</c><00:02:44.540><c> the</c>
+
+00:02:44.590 --> 00:02:44.600 align:start position:0%
+either running through the floor or the
+ 
+
+00:02:44.600 --> 00:02:47.410 align:start position:0%
+either running through the floor or the
+ceiling<00:02:44.989><c> back</c><00:02:45.739><c> to</c><00:02:45.980><c> a</c><00:02:46.010><c> special</c><00:02:46.550><c> room</c><00:02:46.730><c> called</c><00:02:47.330><c> a</c>
+
+00:02:47.410 --> 00:02:47.420 align:start position:0%
+ceiling back to a special room called a
+ 
+
+00:02:47.420 --> 00:02:50.500 align:start position:0%
+ceiling back to a special room called a
+wiring<00:02:47.750><c> closet</c><00:02:48.519><c> this</c><00:02:49.519><c> room</c><00:02:49.790><c> might</c><00:02:50.090><c> also</c><00:02:50.269><c> be</c>
+
+00:02:50.500 --> 00:02:50.510 align:start position:0%
+wiring closet this room might also be
+ 
+
+00:02:50.510 --> 00:02:52.420 align:start position:0%
+wiring closet this room might also be
+called<00:02:50.540><c> a</c><00:02:50.810><c> patch</c><00:02:50.989><c> room</c><00:02:51.320><c> or</c><00:02:51.560><c> a</c><00:02:51.620><c> server</c><00:02:51.980><c> room</c><00:02:52.220><c> in</c>
+
+00:02:52.420 --> 00:02:52.430 align:start position:0%
+called a patch room or a server room in
+ 
+
+00:02:52.430 --> 00:02:54.729 align:start position:0%
+called a patch room or a server room in
+the<00:02:52.970><c> wiring</c><00:02:53.330><c> closet</c><00:02:53.750><c> all</c><00:02:53.930><c> of</c><00:02:54.230><c> these</c><00:02:54.380><c> devices</c>
+
+00:02:54.729 --> 00:02:54.739 align:start position:0%
+the wiring closet all of these devices
+ 
+
+00:02:54.739 --> 00:02:56.740 align:start position:0%
+the wiring closet all of these devices
+will<00:02:55.160><c> connect</c><00:02:55.489><c> to</c><00:02:55.640><c> a</c><00:02:55.670><c> stack</c><00:02:56.090><c> of</c><00:02:56.269><c> switches</c>
+
+00:02:56.740 --> 00:02:56.750 align:start position:0%
+will connect to a stack of switches
+ 
+
+00:02:56.750 --> 00:02:59.190 align:start position:0%
+will connect to a stack of switches
+which<00:02:57.080><c> are</c><00:02:57.260><c> mounted</c><00:02:57.410><c> onto</c><00:02:57.890><c> racks</c>
+
+00:02:59.190 --> 00:02:59.200 align:start position:0%
+which are mounted onto racks
+ 
+
+00:02:59.200 --> 00:03:01.150 align:start position:0%
+which are mounted onto racks
+depending<00:03:00.200><c> on</c><00:03:00.290><c> the</c><00:03:00.440><c> size</c><00:03:00.620><c> of</c><00:03:00.890><c> the</c><00:03:01.010><c> network</c>
+
+00:03:01.150 --> 00:03:01.160 align:start position:0%
+depending on the size of the network
+ 
+
+00:03:01.160 --> 00:03:04.240 align:start position:0%
+depending on the size of the network
+there<00:03:01.819><c> may</c><00:03:02.090><c> be</c><00:03:02.120><c> multiple</c><00:03:02.709><c> wiring</c><00:03:03.709><c> closets</c>
+
+00:03:04.240 --> 00:03:04.250 align:start position:0%
+there may be multiple wiring closets
+ 
+
+00:03:04.250 --> 00:03:06.370 align:start position:0%
+there may be multiple wiring closets
+which<00:03:04.640><c> all</c><00:03:04.850><c> connect</c><00:03:05.360><c> to</c><00:03:05.480><c> each</c><00:03:05.600><c> other</c><00:03:05.780><c> say</c><00:03:06.230><c> for</c>
+
+00:03:06.370 --> 00:03:06.380 align:start position:0%
+which all connect to each other say for
+ 
+
+00:03:06.380 --> 00:03:09.250 align:start position:0%
+which all connect to each other say for
+example<00:03:06.769><c> on</c><00:03:06.950><c> different</c><00:03:07.519><c> floors</c><00:03:07.900><c> keep</c><00:03:08.900><c> in</c><00:03:09.050><c> mind</c>
+
+00:03:09.250 --> 00:03:09.260 align:start position:0%
+example on different floors keep in mind
+ 
+
+00:03:09.260 --> 00:03:11.199 align:start position:0%
+example on different floors keep in mind
+though<00:03:09.410><c> this</c><00:03:09.620><c> has</c><00:03:09.890><c> been</c><00:03:10.190><c> simplified</c><00:03:10.519><c> to</c><00:03:11.060><c> give</c>
+
+00:03:11.199 --> 00:03:11.209 align:start position:0%
+though this has been simplified to give
+ 
+
+00:03:11.209 --> 00:03:12.630 align:start position:0%
+though this has been simplified to give
+you<00:03:11.300><c> a</c><00:03:11.330><c> general</c><00:03:11.630><c> idea</c>
+
+00:03:12.630 --> 00:03:12.640 align:start position:0%
+you a general idea
+ 
+
+00:03:12.640 --> 00:03:15.070 align:start position:0%
+you a general idea
+lastly<00:03:13.640><c> we'll</c><00:03:13.970><c> look</c><00:03:14.150><c> at</c><00:03:14.300><c> another</c><00:03:14.569><c> type</c><00:03:14.720><c> of</c>
+
+00:03:15.070 --> 00:03:15.080 align:start position:0%
+lastly we'll look at another type of
+ 
+
+00:03:15.080 --> 00:03:18.550 align:start position:0%
+lastly we'll look at another type of
+network<00:03:15.470><c> that</c><00:03:15.860><c> might</c><00:03:16.220><c> not</c><00:03:16.489><c> be</c><00:03:16.700><c> so</c><00:03:16.940><c> obvious</c><00:03:17.560><c> now</c>
+
+00:03:18.550 --> 00:03:18.560 align:start position:0%
+network that might not be so obvious now
+ 
+
+00:03:18.560 --> 00:03:20.590 align:start position:0%
+network that might not be so obvious now
+I<00:03:18.590><c> said</c><00:03:18.830><c> before</c><00:03:18.950><c> I'm</c><00:03:19.340><c> sure</c><00:03:19.880><c> you</c><00:03:20.120><c> all</c><00:03:20.329><c> have</c>
+
+00:03:20.590 --> 00:03:20.600 align:start position:0%
+I said before I'm sure you all have
+ 
+
+00:03:20.600 --> 00:03:22.710 align:start position:0%
+I said before I'm sure you all have
+smartphones<00:03:21.110><c> of</c><00:03:21.530><c> some</c><00:03:22.100><c> sort</c>
+
+00:03:22.710 --> 00:03:22.720 align:start position:0%
+smartphones of some sort
+ 
+
+00:03:22.720 --> 00:03:25.479 align:start position:0%
+smartphones of some sort
+now<00:03:23.720><c> these</c><00:03:23.989><c> phones</c><00:03:24.290><c> generally</c><00:03:24.890><c> have</c><00:03:25.070><c> internet</c>
+
+00:03:25.479 --> 00:03:25.489 align:start position:0%
+now these phones generally have internet
+ 
+
+00:03:25.489 --> 00:03:30.699 align:start position:0%
+now these phones generally have internet
+access<00:03:25.940><c> via</c><00:03:26.019><c> 3G</c><00:03:27.019><c> 4G</c><00:03:27.829><c> and</c><00:03:28.250><c> even</c><00:03:28.820><c> 5g</c><00:03:29.329><c> well</c><00:03:30.200><c> you</c>
+
+00:03:30.699 --> 00:03:30.709 align:start position:0%
+access via 3G 4G and even 5g well you
+ 
+
+00:03:30.709 --> 00:03:33.100 align:start position:0%
+access via 3G 4G and even 5g well you
+can<00:03:30.920><c> think</c><00:03:31.160><c> of</c><00:03:31.250><c> these</c><00:03:31.430><c> as</c><00:03:31.489><c> basically</c><00:03:32.239><c> a</c><00:03:32.360><c> giant</c>
+
+00:03:33.100 --> 00:03:33.110 align:start position:0%
+can think of these as basically a giant
+ 
+
+00:03:33.110 --> 00:03:36.180 align:start position:0%
+can think of these as basically a giant
+wireless<00:03:33.560><c> network</c><00:03:34.250><c> for</c><00:03:34.519><c> your</c><00:03:34.880><c> phones</c>
+
+00:03:36.180 --> 00:03:36.190 align:start position:0%
+wireless network for your phones
+ 
+
+00:03:36.190 --> 00:03:38.110 align:start position:0%
+wireless network for your phones
+somewhere<00:03:37.190><c> close</c><00:03:37.459><c> to</c><00:03:37.489><c> you</c><00:03:37.730><c> there</c><00:03:37.910><c> will</c><00:03:37.970><c> be</c><00:03:38.030><c> a</c>
+
+00:03:38.110 --> 00:03:38.120 align:start position:0%
+somewhere close to you there will be a
+ 
+
+00:03:38.120 --> 00:03:40.090 align:start position:0%
+somewhere close to you there will be a
+giant<00:03:38.420><c> tower</c><00:03:38.750><c> that</c><00:03:39.170><c> allows</c><00:03:39.440><c> you</c><00:03:39.650><c> to</c><00:03:39.680><c> connect</c>
+
+00:03:40.090 --> 00:03:40.100 align:start position:0%
+giant tower that allows you to connect
+ 
+
+00:03:40.100 --> 00:03:42.880 align:start position:0%
+giant tower that allows you to connect
+and<00:03:40.310><c> get</c><00:03:40.700><c> internet</c><00:03:41.269><c> access</c><00:03:41.420><c> the</c><00:03:42.380><c> closer</c><00:03:42.680><c> you</c>
+
+00:03:42.880 --> 00:03:42.890 align:start position:0%
+and get internet access the closer you
+ 
+
+00:03:42.890 --> 00:03:44.890 align:start position:0%
+and get internet access the closer you
+are<00:03:42.920><c> to</c><00:03:43.070><c> these</c><00:03:43.340><c> towers</c><00:03:43.760><c> the</c><00:03:44.329><c> better</c><00:03:44.630><c> the</c>
+
+00:03:44.890 --> 00:03:44.900 align:start position:0%
+are to these towers the better the
+ 
+
+00:03:44.900 --> 00:03:47.920 align:start position:0%
+are to these towers the better the
+connection<00:03:45.350><c> is</c><00:03:45.470><c> likely</c><00:03:45.829><c> to</c><00:03:46.160><c> be</c><00:03:46.540><c> so</c><00:03:47.540><c> these</c><00:03:47.720><c> are</c>
+
+00:03:47.920 --> 00:03:47.930 align:start position:0%
+connection is likely to be so these are
+ 
+
+00:03:47.930 --> 00:03:49.990 align:start position:0%
+connection is likely to be so these are
+just<00:03:48.140><c> some</c><00:03:48.290><c> common</c><00:03:48.680><c> network</c><00:03:49.370><c> types</c><00:03:49.700><c> and</c>
+
+00:03:49.990 --> 00:03:50.000 align:start position:0%
+just some common network types and
+ 
+
+00:03:50.000 --> 00:03:52.150 align:start position:0%
+just some common network types and
+really<00:03:50.720><c> just</c><00:03:50.840><c> an</c><00:03:51.049><c> introduction</c><00:03:51.799><c> to</c><00:03:51.920><c> some</c>
+
+00:03:52.150 --> 00:03:52.160 align:start position:0%
+really just an introduction to some
+ 
+
+00:03:52.160 --> 00:03:55.120 align:start position:0%
+really just an introduction to some
+basic<00:03:52.220><c> networked</c><00:03:53.180><c> devices</c><00:03:53.690><c> so</c><00:03:54.620><c> the</c><00:03:54.769><c> next</c>
+
+00:03:55.120 --> 00:03:55.130 align:start position:0%
+basic networked devices so the next
+ 
+
+00:03:55.130 --> 00:03:59.830 align:start position:0%
+basic networked devices so the next
+logical<00:03:55.609><c> question</c><00:03:56.359><c> is</c><00:03:56.859><c> why</c><00:03:58.090><c> why</c><00:03:59.090><c> do</c><00:03:59.150><c> we</c><00:03:59.540><c> need</c>
+
+00:03:59.830 --> 00:03:59.840 align:start position:0%
+logical question is why why do we need
+ 
+
+00:03:59.840 --> 00:04:03.340 align:start position:0%
+logical question is why why do we need
+networks<00:04:00.739><c> well</c><00:04:01.730><c> let's</c><00:04:02.269><c> imagine</c><00:04:02.480><c> life</c><00:04:03.049><c> without</c>
+
+00:04:03.340 --> 00:04:03.350 align:start position:0%
+networks well let's imagine life without
+ 
+
+00:04:03.350 --> 00:04:05.680 align:start position:0%
+networks well let's imagine life without
+networks<00:04:04.010><c> for</c><00:04:04.250><c> a</c><00:04:04.310><c> second</c><00:04:04.670><c> if</c><00:04:04.820><c> we</c><00:04:05.420><c> want</c><00:04:05.630><c> to</c>
+
+00:04:05.680 --> 00:04:05.690 align:start position:0%
+networks for a second if we want to
+ 
+
+00:04:05.690 --> 00:04:07.630 align:start position:0%
+networks for a second if we want to
+print<00:04:06.170><c> a</c><00:04:06.290><c> document</c><00:04:06.320><c> we</c><00:04:07.190><c> would</c><00:04:07.340><c> need</c><00:04:07.489><c> to</c>
+
+00:04:07.630 --> 00:04:07.640 align:start position:0%
+print a document we would need to
+ 
+
+00:04:07.640 --> 00:04:11.310 align:start position:0%
+print a document we would need to
+directly<00:04:08.120><c> connect</c><00:04:08.570><c> a</c><00:04:08.750><c> printer</c><00:04:09.850><c> which</c><00:04:10.850><c> is</c><00:04:10.880><c> fine</c>
+
+00:04:11.310 --> 00:04:11.320 align:start position:0%
+directly connect a printer which is fine
+ 
+
+00:04:11.320 --> 00:04:13.860 align:start position:0%
+directly connect a printer which is fine
+but<00:04:12.320><c> what</c><00:04:12.530><c> if</c><00:04:12.620><c> we</c><00:04:12.769><c> have</c><00:04:12.980><c> multiple</c><00:04:13.519><c> computers</c>
+
+00:04:13.860 --> 00:04:13.870 align:start position:0%
+but what if we have multiple computers
+ 
+
+00:04:13.870 --> 00:04:16.900 align:start position:0%
+but what if we have multiple computers
+we<00:04:14.870><c> would</c><00:04:15.049><c> need</c><00:04:15.230><c> multiple</c><00:04:15.910><c> directly</c>
+
+00:04:16.900 --> 00:04:16.910 align:start position:0%
+we would need multiple directly
+ 
+
+00:04:16.910 --> 00:04:19.630 align:start position:0%
+we would need multiple directly
+connected<00:04:17.390><c> printers</c><00:04:17.989><c> right</c><00:04:18.229><c> which</c><00:04:18.950><c> isn't</c><00:04:19.220><c> so</c>
+
+00:04:19.630 --> 00:04:19.640 align:start position:0%
+connected printers right which isn't so
+ 
+
+00:04:19.640 --> 00:04:22.060 align:start position:0%
+connected printers right which isn't so
+fine<00:04:19.970><c> the</c><00:04:20.510><c> beauty</c><00:04:20.959><c> of</c><00:04:20.989><c> a</c><00:04:21.079><c> network</c><00:04:21.410><c> is</c><00:04:21.560><c> we</c><00:04:21.890><c> can</c>
+
+00:04:22.060 --> 00:04:22.070 align:start position:0%
+fine the beauty of a network is we can
+ 
+
+00:04:22.070 --> 00:04:24.750 align:start position:0%
+fine the beauty of a network is we can
+share<00:04:22.370><c> resources</c>
+
+00:04:24.750 --> 00:04:24.760 align:start position:0%
+share resources
+ 
+
+00:04:24.760 --> 00:04:27.180 align:start position:0%
+share resources
+if<00:04:25.090><c> I</c><00:04:25.300><c> have</c><00:04:25.420><c> a</c><00:04:25.450><c> file</c><00:04:25.780><c> and</c><00:04:26.020><c> I</c><00:04:26.470><c> want</c><00:04:26.740><c> to</c><00:04:26.860><c> send</c><00:04:27.100><c> it</c>
+
+00:04:27.180 --> 00:04:27.190 align:start position:0%
+if I have a file and I want to send it
+ 
+
+00:04:27.190 --> 00:04:30.070 align:start position:0%
+if I have a file and I want to send it
+to<00:04:27.280><c> someone</c><00:04:27.490><c> I</c><00:04:27.790><c> can</c>
+
+00:04:30.070 --> 00:04:30.080 align:start position:0%
+to someone I can
+ 
+
+00:04:30.080 --> 00:04:31.899 align:start position:0%
+to someone I can
+they<00:04:30.680><c> can</c><00:04:30.860><c> also</c><00:04:31.099><c> share</c><00:04:31.520><c> the</c><00:04:31.669><c> file</c><00:04:31.879><c> with</c>
+
+00:04:31.899 --> 00:04:31.909 align:start position:0%
+they can also share the file with
+ 
+
+00:04:31.909 --> 00:04:34.540 align:start position:0%
+they can also share the file with
+everyone<00:04:32.690><c> else</c>
+
+00:04:34.540 --> 00:04:34.550 align:start position:0%
+everyone else
+ 
+
+00:04:34.550 --> 00:04:36.700 align:start position:0%
+everyone else
+we<00:04:35.180><c> can</c><00:04:35.330><c> have</c><00:04:35.540><c> shared</c><00:04:35.990><c> printers</c><00:04:36.500><c> that</c>
+
+00:04:36.700 --> 00:04:36.710 align:start position:0%
+we can have shared printers that
+ 
+
+00:04:36.710 --> 00:04:38.980 align:start position:0%
+we can have shared printers that
+everyone<00:04:37.310><c> can</c><00:04:37.490><c> use</c><00:04:37.520><c> we</c><00:04:38.450><c> can</c><00:04:38.600><c> even</c><00:04:38.750><c> have</c>
+
+00:04:38.980 --> 00:04:38.990 align:start position:0%
+everyone can use we can even have
+ 
+
+00:04:38.990 --> 00:04:41.140 align:start position:0%
+everyone can use we can even have
+servers<00:04:39.350><c> that</c><00:04:39.650><c> could</c><00:04:39.860><c> store</c><00:04:40.160><c> these</c><00:04:40.340><c> files</c><00:04:40.670><c> for</c>
+
+00:04:41.140 --> 00:04:41.150 align:start position:0%
+servers that could store these files for
+ 
+
+00:04:41.150 --> 00:04:42.730 align:start position:0%
+servers that could store these files for
+us<00:04:41.330><c> of</c><00:04:41.560><c> course</c>
+
+00:04:42.730 --> 00:04:42.740 align:start position:0%
+us of course
+ 
+
+00:04:42.740 --> 00:04:45.010 align:start position:0%
+us of course
+file<00:04:43.160><c> sharing</c><00:04:43.550><c> and</c><00:04:43.820><c> printing</c><00:04:44.000><c> is</c><00:04:44.360><c> just</c><00:04:44.810><c> one</c>
+
+00:04:45.010 --> 00:04:45.020 align:start position:0%
+file sharing and printing is just one
+ 
+
+00:04:45.020 --> 00:04:46.660 align:start position:0%
+file sharing and printing is just one
+example<00:04:45.140><c> but</c><00:04:45.830><c> this</c><00:04:45.980><c> could</c><00:04:46.160><c> be</c><00:04:46.250><c> pretty</c><00:04:46.550><c> much</c>
+
+00:04:46.660 --> 00:04:46.670 align:start position:0%
+example but this could be pretty much
+ 
+
+00:04:46.670 --> 00:04:50.320 align:start position:0%
+example but this could be pretty much
+anything<00:04:46.850><c> and</c><00:04:47.860><c> all</c><00:04:48.860><c> of</c><00:04:49.130><c> this</c><00:04:49.280><c> even</c><00:04:49.550><c> before</c><00:04:50.060><c> we</c>
+
+00:04:50.320 --> 00:04:50.330 align:start position:0%
+anything and all of this even before we
+ 
+
+00:04:50.330 --> 00:04:52.720 align:start position:0%
+anything and all of this even before we
+start<00:04:50.630><c> talking</c><00:04:50.930><c> about</c><00:04:51.230><c> the</c><00:04:51.830><c> internet</c><00:04:52.310><c> which</c>
+
+00:04:52.720 --> 00:04:52.730 align:start position:0%
+start talking about the internet which
+ 
+
+00:04:52.730 --> 00:04:57.010 align:start position:0%
+start talking about the internet which
+by<00:04:52.970><c> the</c><00:04:53.030><c> way</c><00:04:53.180><c> is</c><00:04:53.570><c> just</c><00:04:54.170><c> a</c><00:04:54.410><c> giant</c><00:04:55.010><c> network</c><00:04:56.020><c> with</c>
+
+00:04:57.010 --> 00:04:57.020 align:start position:0%
+by the way is just a giant network with
+ 
+
+00:04:57.020 --> 00:04:58.900 align:start position:0%
+by the way is just a giant network with
+the<00:04:57.230><c> internet</c><00:04:57.650><c> we</c><00:04:57.920><c> can</c><00:04:57.950><c> search</c><00:04:58.310><c> for</c><00:04:58.550><c> anything</c>
+
+00:04:58.900 --> 00:04:58.910 align:start position:0%
+the internet we can search for anything
+ 
+
+00:04:58.910 --> 00:04:59.680 align:start position:0%
+the internet we can search for anything
+we<00:04:59.240><c> want</c>
+
+00:04:59.680 --> 00:04:59.690 align:start position:0%
+we want
+ 
+
+00:04:59.690 --> 00:05:01.810 align:start position:0%
+we want
+we<00:04:59.930><c> literally</c><00:05:00.320><c> have</c><00:05:00.650><c> the</c><00:05:00.890><c> world's</c><00:05:01.400><c> knowledge</c>
+
+00:05:01.810 --> 00:05:01.820 align:start position:0%
+we literally have the world's knowledge
+ 
+
+00:05:01.820 --> 00:05:06.520 align:start position:0%
+we literally have the world's knowledge
+at<00:05:02.240><c> our</c><00:05:02.750><c> fingertips</c><00:05:03.260><c> we</c><00:05:03.970><c> have</c><00:05:04.970><c> email</c><00:05:05.500><c> we</c><00:05:06.500><c> can</c>
+
+00:05:06.520 --> 00:05:06.530 align:start position:0%
+at our fingertips we have email we can
+ 
+
+00:05:06.530 --> 00:05:09.190 align:start position:0%
+at our fingertips we have email we can
+message<00:05:06.830><c> our</c><00:05:07.100><c> friends</c><00:05:07.490><c> we</c><00:05:08.210><c> can</c><00:05:08.420><c> use</c><00:05:08.630><c> hosted</c>
+
+00:05:09.190 --> 00:05:09.200 align:start position:0%
+message our friends we can use hosted
+ 
+
+00:05:09.200 --> 00:05:11.950 align:start position:0%
+message our friends we can use hosted
+computing<00:05:10.060><c> telephone</c><00:05:11.060><c> calls</c><00:05:11.420><c> over</c><00:05:11.750><c> the</c>
+
+00:05:11.950 --> 00:05:11.960 align:start position:0%
+computing telephone calls over the
+ 
+
+00:05:11.960 --> 00:05:15.490 align:start position:0%
+computing telephone calls over the
+internet<00:05:12.350><c> and</c><00:05:12.940><c> of</c><00:05:13.940><c> course</c><00:05:14.210><c> awesome</c><00:05:15.140><c> YouTube</c>
+
+00:05:15.490 --> 00:05:15.500 align:start position:0%
+internet and of course awesome YouTube
+ 
+
+00:05:15.500 --> 00:05:18.910 align:start position:0%
+internet and of course awesome YouTube
+content<00:05:16.240><c> so</c><00:05:17.240><c> networking</c><00:05:17.840><c> has</c><00:05:18.080><c> changed</c><00:05:18.620><c> the</c>
+
+00:05:18.910 --> 00:05:18.920 align:start position:0%
+content so networking has changed the
+ 
+
+00:05:18.920 --> 00:05:21.490 align:start position:0%
+content so networking has changed the
+world<00:05:19.160><c> and</c><00:05:19.400><c> how</c><00:05:19.790><c> we</c><00:05:19.820><c> live</c><00:05:20.180><c> in</c><00:05:20.330><c> it</c><00:05:20.480><c> it's</c><00:05:21.080><c> a</c><00:05:21.170><c> topic</c>
+
+00:05:21.490 --> 00:05:21.500 align:start position:0%
+world and how we live in it it's a topic
+ 
+
+00:05:21.500 --> 00:05:23.620 align:start position:0%
+world and how we live in it it's a topic
+I<00:05:21.620><c> still</c><00:05:21.920><c> get</c><00:05:22.070><c> excited</c><00:05:22.190><c> about</c><00:05:22.580><c> and</c><00:05:22.880><c> there's</c><00:05:23.360><c> no</c>
+
+00:05:23.620 --> 00:05:23.630 align:start position:0%
+I still get excited about and there's no
+ 
+
+00:05:23.630 --> 00:05:26.410 align:start position:0%
+I still get excited about and there's no
+shortage<00:05:24.170><c> of</c><00:05:24.230><c> new</c><00:05:24.680><c> things</c><00:05:24.920><c> to</c><00:05:25.040><c> learn</c><00:05:25.280><c> we'll</c><00:05:26.210><c> go</c>
+
+00:05:26.410 --> 00:05:26.420 align:start position:0%
+shortage of new things to learn we'll go
+ 
+
+00:05:26.420 --> 00:05:28.510 align:start position:0%
+shortage of new things to learn we'll go
+over<00:05:26.570><c> a</c><00:05:26.720><c> lot</c><00:05:26.840><c> of</c><00:05:26.870><c> this</c><00:05:27.110><c> in</c><00:05:27.320><c> more</c><00:05:27.590><c> detail</c><00:05:28.010><c> as</c><00:05:28.220><c> we</c>
+
+00:05:28.510 --> 00:05:28.520 align:start position:0%
+over a lot of this in more detail as we
+ 
+
+00:05:28.520 --> 00:05:31.660 align:start position:0%
+over a lot of this in more detail as we
+go<00:05:28.550><c> this</c><00:05:29.540><c> video</c><00:05:29.870><c> is</c><00:05:30.080><c> part</c><00:05:30.320><c> of</c><00:05:30.440><c> our</c><00:05:30.590><c> full</c><00:05:30.890><c> CCNA</c>
+
+00:05:31.660 --> 00:05:31.670 align:start position:0%
+go this video is part of our full CCNA
+ 
+
+00:05:31.670 --> 00:05:33.310 align:start position:0%
+go this video is part of our full CCNA
+course<00:05:31.970><c> which</c><00:05:32.240><c> can</c><00:05:32.420><c> be</c><00:05:32.510><c> found</c><00:05:32.750><c> in</c><00:05:33.080><c> the</c>
+
+00:05:33.310 --> 00:05:33.320 align:start position:0%
+course which can be found in the
+ 
+
+00:05:33.320 --> 00:05:35.380 align:start position:0%
+course which can be found in the
+description<00:05:33.860><c> so</c><00:05:34.220><c> please</c><00:05:34.250><c> feel</c><00:05:34.910><c> free</c><00:05:34.970><c> to</c><00:05:35.270><c> go</c>
+
+00:05:35.380 --> 00:05:35.390 align:start position:0%
+description so please feel free to go
+ 
+
+00:05:35.390 --> 00:05:37.600 align:start position:0%
+description so please feel free to go
+and<00:05:35.510><c> check</c><00:05:35.690><c> that</c><00:05:35.930><c> out</c><00:05:36.110><c> if</c><00:05:37.100><c> you</c><00:05:37.280><c> like</c><00:05:37.430><c> this</c>
+
+00:05:37.600 --> 00:05:37.610 align:start position:0%
+and check that out if you like this
+ 
+
+00:05:37.610 --> 00:05:39.640 align:start position:0%
+and check that out if you like this
+video<00:05:37.850><c> don't</c><00:05:38.180><c> forget</c><00:05:38.480><c> to</c><00:05:38.540><c> Like</c><00:05:38.900><c> comment</c><00:05:39.470><c> and</c>
+
+00:05:39.640 --> 00:05:39.650 align:start position:0%
+video don't forget to Like comment and
+ 
+
+00:05:39.650 --> 00:05:40.420 align:start position:0%
+video don't forget to Like comment and
+subscribe
+
+00:05:40.420 --> 00:05:40.430 align:start position:0%
+subscribe
+ 
+
+00:05:40.430 --> 00:05:49.850 align:start position:0%
+subscribe
+other<00:05:41.210><c> than</c><00:05:41.480><c> that</c><00:05:41.600><c> thank</c><00:05:42.260><c> you</c><00:05:42.380><c> for</c><00:05:42.620><c> watching</c>
+
+00:05:49.850 --> 00:05:49.860 align:start position:0%
+ 
+ 
+
+00:05:49.860 --> 00:05:51.919 align:start position:0%
+ 
+you
+

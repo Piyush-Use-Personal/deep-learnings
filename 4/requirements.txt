@@ -1,0 +1,16 @@
+pip install pandas scikit-learn matplotlib seaborn
+
+
+Based on your research in the provided document, you're implementing the Multi-Tier Student Performance Evaluation Model (MTSPEM) using both traditional and ensemble machine learning classifiers. Here's a Python implementation of MTSPEM using the UCI Student Performance Dataset, following your described process.
+
+Explanation
+Data Source: Student Performance Dataset (Portuguese) from UCI.
+
+First Tier (Binary Classification): Uses Naive Bayes to classify students as PASS/FAIL.
+
+Second Tier (Multi-Class Classification): Uses ensemble stacking (Random Forest + AdaBoost) to classify PASS students into "Outstanding", "Good", or "Average".
+
+Selected Features: Based on Significant Student Learning Factors (SSLF) mentioned in your research:
+
+failures, G1 (internal assessment), absences (proxy for attendance), and internet.
+

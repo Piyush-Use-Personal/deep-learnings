@@ -1,0 +1,3 @@
+pip install yfinance ta scikit-learn matplotlib seaborn pandas
+
+pip install yfinance ta pandas scikit-learn matplotlib seaborn

@@ -1,0 +1,2 @@
+Python Algorithm for GWSP Framework Implementation
+Below is a Python implementation of key components from the GWSP (Gawk Web Search Personalization) framework described in your research. This includes modules for query processing, optimization, and user profile management.

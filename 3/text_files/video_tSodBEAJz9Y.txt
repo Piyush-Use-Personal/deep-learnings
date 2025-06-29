@@ -1,0 +1,127 @@
+WEBVTT
+Kind: captions
+Language: en
+hey what's up guys welcome to sir pros
+in this video we're going to be talking
+about computer networks okay so what is
+a computer network well first let's
+break it down what is a network the
+definition of a network is a group or
+system of interconnected people or
+things so it would be fair to say a
+computer network would be a group or
+system of interconnected computers right
+and that's exactly what it is a computer
+network is anything where more than one
+computer is connected to each other
+traditionally a computer network would
+consist of desktop computers servers
+printers etc but these days we live in a
+connected world we still have desktops
+servers printers but we now have a vast
+number of smart devices connected to our
+networks as well most of you will have a
+mobile phone maybe a tablet security
+cameras even smart lights are found on
+networks these days and the list really
+does go on and on so let's take a look
+at some basic networks and we can see
+what they look like first one that
+should be familiar to most of you here
+we have a switch a router a wireless
+access point a desktop and a phone all
+connected to the same network this is a
+pretty common home set up it's worth
+noting that in most home networks the
+switch and wireless access point will be
+built into the Rooter
+generally speaking any network in a
+single area is called a local area
+network or LAN the LAN is usually
+connected to the outside world using a
+socket in the wall that your internet
+service provider has installed this
+socket connects you to something called
+the wide area network or WAN
+the purpose of a1 is to connect separate
+local area networks together the most
+obvious example of a one would be the
+internet however businesses might have
+private ones to connect multiple sites
+together so now let's look at a more
+business type network so we have all of
+our office computers and these would
+usually plug into a wall or floor socket
+and these sockets will have cables
+either running through the floor or the
+ceiling back to a special room called a
+wiring closet this room might also be
+called a patch room or a server room in
+the wiring closet all of these devices
+will connect to a stack of switches
+which are mounted onto racks
+depending on the size of the network
+there may be multiple wiring closets
+which all connect to each other say for
+example on different floors keep in mind
+though this has been simplified to give
+you a general idea
+lastly we'll look at another type of
+network that might not be so obvious now
+I said before I'm sure you all have
+smartphones of some sort
+now these phones generally have internet
+access via 3G 4G and even 5g well you
+can think of these as basically a giant
+wireless network for your phones
+somewhere close to you there will be a
+giant tower that allows you to connect
+and get internet access the closer you
+are to these towers the better the
+connection is likely to be so these are
+just some common network types and
+really just an introduction to some
+basic networked devices so the next
+logical question is why why do we need
+networks well let's imagine life without
+networks for a second if we want to
+print a document we would need to
+directly connect a printer which is fine
+but what if we have multiple computers
+we would need multiple directly
+connected printers right which isn't so
+fine the beauty of a network is we can
+share resources
+if I have a file and I want to send it
+to someone I can
+they can also share the file with
+everyone else
+we can have shared printers that
+everyone can use we can even have
+servers that could store these files for
+us of course
+file sharing and printing is just one
+example but this could be pretty much
+anything and all of this even before we
+start talking about the internet which
+by the way is just a giant network with
+the internet we can search for anything
+we want
+we literally have the world's knowledge
+at our fingertips we have email we can
+message our friends we can use hosted
+computing telephone calls over the
+internet and of course awesome YouTube
+content so networking has changed the
+world and how we live in it it's a topic
+I still get excited about and there's no
+shortage of new things to learn we'll go
+over a lot of this in more detail as we
+go this video is part of our full CCNA
+course which can be found in the
+description so please feel free to go
+and check that out if you like this
+video don't forget to Like comment and
+subscribe
+other than that thank you for watching
+you

@@ -1,0 +1,11 @@
+Age,Gender,Course_Type,Activity_Score,Completion_Status
+22,Male,STEM,87,1
+25,Female,Humanities,56,0
+24,Female,STEM,90,1
+27,Male,Business,45,0
+23,Female,Business,65,1
+30,Male,STEM,80,1
+29,Male,Humanities,70,0
+22,Female,STEM,85,1
+28,Female,STEM,55,0
+26,Male,Business,78,1

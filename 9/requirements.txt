@@ -1,0 +1,14 @@
+Based on your research topic “Factors Affecting High Attrition Rate of MOOCs and Its Prediction Using Machine Learning Techniques,” here is a Python algorithm with graphical output that you can use to:
+
+Predict MOOC attrition using machine learning (Random Forest, Logistic Regression, etc.).
+
+Visualize feature importance and evaluation metrics.
+
+ Optional Enhancements
+Replace Random Forest with LogisticRegression(), XGBClassifier(), or SVM().
+
+Try hyperparameter tuning with GridSearchCV.
+
+Apply PCA for dimensionality reduction.
+
+Use cross-validation (cross_val_score).

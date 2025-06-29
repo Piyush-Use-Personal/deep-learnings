@@ -1,0 +1,27 @@
+pip install scikit-learn matplotlib seaborn
+
+
+Algorithms Implemented
+Decision Tree (ID3)
+
+Naive Bayes (NB)
+
+Support Vector Machine (SVM)
+
+Artificial Neural Network (ANN)
+
+We’ll visualize:
+
+📊 Accuracy Comparison
+
+📈 Confusion Matrix
+
+🌲 Decision Tree Structure
+
+
+Sample Output
+Accuracy Bar Chart: Compares performance of all algorithms.
+
+Confusion Matrix: Visual clarity on misclassifications.
+
+Decision Tree Plot: Explains decision splits visually.

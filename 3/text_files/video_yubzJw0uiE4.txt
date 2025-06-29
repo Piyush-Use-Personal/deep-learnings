@@ -1,0 +1,176 @@
+WEBVTT
+Kind: captions
+Language: en
+ever wonder if there's an easier way to
+complete transactions without having to
+deal with online wallets banks and
+third-party applications well it's
+possible thanks to blockchain here's
+everything you need to know about
+blockchain imagine four friends jack ted
+sam and phil meet up for dinner after
+they're done jack pays the bill and all
+of them decide to split the expense
+amongst each other now on the next day
+when phil sends his share to jack via
+online money transfer the transaction
+goes through without a hitch then ted
+and sam send their respective shares to
+jack but their transactions don't go
+through the failed transaction cites
+some issues at the bank that's when jack
+comes to know about the many ways a bank
+transaction could fail it could be due
+to technical issues at the bank one of
+their accounts were hacked daily
+transfer limits being exceeded and
+sometimes additional charges like
+transfer charges associated with
+transferring money to solve these
+problems the concept of cryptocurrency
+came into existence cryptocurrencies are
+a form of digital or virtual currency
+that run on a technology known as
+blockchain thanks to blockchain
+cryptocurrencies are immune to
+counterfeiting don't require a central
+authority and are protected by strong
+and complex encryption algorithms and in
+a market of more than thousands of
+cryptocurrencies like litecoin ethereum
+z cash and so on one reign supreme
+bitcoin now let's go back to our
+previous example and have phil ted and
+sam send jack two bitcoins each as their
+contribution to the previous night's
+dinner let's assume phil ted and sam
+have three bitcoins in reserve while
+jack has five first phil sends two
+bitcoins to jack a record is created in
+the form of a block the transaction
+details between them is permanently
+inscribed in this block this record also
+holds the number of bitcoins each of the
+friends own so after phil's transaction
+jack has seven bitcoins while phil has
+one following this sam and ted send two
+bitcoins to jack a new block is created
+for each of these transactions these
+blocks hold the transaction details as
+well as how many bitcoins sam ted and
+jack have in reserve these blocks are
+linked to each other as each of them
+takes reference from the previous one
+for the number of bitcoins each brand
+owns this chain of records or blocks is
+called a ledger and this ledger is
+shared among all the friends which acts
+as a public distributed ledger this
+forms the basis of blockchain so what
+happens when phil has only one bitcoin
+left and he tries to send two more
+bitcoins to jack the transaction will
+not go through this is because all his
+friends have copies of the ledger and
+it's clear that phil has only one
+bitcoin left his friends will flag this
+transaction as invalid a hacker will not
+be able to alter the data in the
+blockchain because each user has a copy
+of the ledger the data within the blocks
+are encrypted by complex algorithms all
+of this is made possible with the help
+of blockchain technology blockchain can
+be described as a collection of records
+linked with each other strongly
+resistant to alteration and protected
+using cryptography now let's have a
+closer look at the bitcoin transaction
+between jack and phil and find out how
+it works every user in the bitcoin
+network has two keys a public key and a
+private key the public key is an address
+that everyone in the network knows of
+like an email address of a user the
+private key is a unique address that
+only the user has knowledge of something
+like a password first phil passes the
+number of bitcoins he wants to send to
+jack along with his and jack's unique
+wallet address through a hashing
+algorithm all of this is part of the
+transaction details these details are
+encrypted using encryption algorithms
+and using phil's unique private key this
+is done to digitally sign the
+transaction and to indicate that the
+transactions came from fill this output
+is now transmitted across the world
+using jack's public key with this the
+message or transaction can be decrypted
+only by jack's private key which only
+jack has knowledge of different
+cryptocurrencies use different hashing
+algorithms while bitcoin uses the
+sha-256 algorithm ethereum which is also
+a famous cryptocurrency uses one known
+as ethash
+this transaction and several other
+similar ones are taking place all around
+the world these transactions are
+validated and then added block by block
+the people who validate these blocks are
+called miners
+for a block to be validated and added to
+a blockchain miners need to solve a
+complex mathematical problem the miner
+who solves this first adds the block to
+the blockchain and is rewarded with 12.5
+bitcoins the process of solving the
+complex mathematical problem is called
+proof of work and the process of adding
+a block to the blockchain is called
+mining
+with this phil and jack's wallets are
+updated just like every person in the
+network who has completed a transaction
+now that you know about blockchain and
+its important concepts time for a small
+quiz what is the concept of blockchain
+that ensures data cannot be altered by
+any of the users within the network a
+public distributed ledger b
+proof of work
+c
+proof of stake d
+hash encryption let us know what you
+think is the right answer in the
+comments below three lucky winners will
+get amazon gift vouchers details are
+mentioned in the description below let's
+have a look at how walmart uses
+blockchain to provide its customers with
+better service walmart was facing
+problems in delivering quality products
+to its customers they were facing a high
+return rate and large amounts of refunds
+due to their products bad quality they
+were unable to determine the point of
+failure in the supply chain which
+started from farm to storage to
+transportation to processing all the way
+to the customer then walmart adopted
+blockchain technology with blockchain
+the quality of the goods at each step
+was permanently inscribed within a block
+for example when a customer flags a
+product as damaged it can be correctly
+identified where the product got damaged
+in the entire supply chain thus helping
+walmart to identify the problem areas
+and fixing them and this is just one of
+several ways blockchain is used in real
+life applications can you think of any
+others let us know in the comments down
+below that's all for now thank you for
+watching and stay tuned for more
